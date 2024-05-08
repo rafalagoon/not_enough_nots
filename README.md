@@ -5,17 +5,22 @@ Just a very stupid experiment with logical operators
  GDScript 7340
 
 ## And what about other languages?
-Pascal infinite
+Pascal: infinite
 
-C infinite
+C: infinite
 
-Javascript 18301
+Javascript: 18301
 
-PHP 9984
+PHP: 9984
 
-Python 3093
+BennuGD 2: 5460
 
-Java 1780
+Python: 3093
+
+Java: 1780
+
+BennuGD 1: 1076
+
 
 ### Credits
 This silly project has been created live simply for fun.
