@@ -6,10 +6,15 @@ Just a very stupid experiment with logical operators
 
 ## And what about other languages?
 Pascal infinite
+
 C infinite
+
 Javascript 18301
+
 PHP 9984
+
 Python 3093
+
 Java 1780
 
 ### Credits
