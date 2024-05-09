@@ -31,7 +31,7 @@ fn main() -> std::io::Result<()> {
     }
 
     for _ in 0..count_ten_remainder {
-        file.write_all(b"        !\\n")?;
+        file.write_all(b"        !\n")?;
     }
 
     file.write_all(b"    true;\n")?;
