@@ -13,7 +13,7 @@ Just a very stupid experiment with logical operators
  - PHP: 9984
  - Rust: 8751
  - BennuGD 2: 5460
- - Python: 3093
+ - Python: 3029
  - Java: 1780
  - BennuGD 1: 1076
  - Lua: 196
