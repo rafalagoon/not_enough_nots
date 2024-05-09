@@ -21,6 +21,7 @@ Java: 1780
 
 BennuGD 1: 1076
 
+Lua: 196
 
 ### Credits
 This silly project has been created live simply for fun.
