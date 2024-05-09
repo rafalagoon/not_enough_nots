@@ -16,15 +16,22 @@ Just a very stupid experiment with logical operators
  - Java: 1780
  - BennuGD 1: 1076
  - Lua: 196
+ - Ada: 1
 
 ### Credits
 This silly project has been created live simply for fun.
 
-https://twitch.tv/rafalagoon
+*Rafa Laguna*
+- [Twitch](https://twitch.tv/rafalagoon)
+- [Twitter](https://twitter.com/rafalagoon)
+- [Youtube](https://youtube.com/@rafalagoon)
+- [Tiktok](https://tiktok.com/@rafalagoon)
+- [Todogodot](https://youtube.com/@todogodot)
 
 #### Colaborators
-
-- [Miguel de Dios Matias](https://github.com/mdtrooper)
+- BennuGD 1 & 2 [Panreyes](https://github.com/panreyes)
+- Lua [Komo](https://github.com/cattokomo)
+- Bash & Rust [Miguel de Dios Matias](https://github.com/mdtrooper)
 
 ### License
 
