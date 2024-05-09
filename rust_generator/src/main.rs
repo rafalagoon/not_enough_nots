@@ -27,15 +27,15 @@ fn main() -> std::io::Result<()> {
     file.write_all(b"    let bool_val =\n")?;
 
     for _ in 0..count_ten_times {
-        file.write_all(b"    ! ! ! ! ! ! ! ! ! !\n")?;
+        file.write_all(b"        ! ! ! ! ! ! ! ! ! !\n")?;
     }
 
     for _ in 0..count_ten_remainder {
-        file.write_all(b"    !\\n")?;
+        file.write_all(b"        !\\n")?;
     }
 
-    file.write_all(b"true;\n")?;
-    file.write_all(b"println!(\"{}\", bool_val);\n")?;
+    file.write_all(b"    true;\n")?;
+    file.write_all(b"    println!(\"{}\", bool_val);\n")?;
     file.write_all(b"}\n")?;
 
     Ok(())
