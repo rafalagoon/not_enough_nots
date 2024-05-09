@@ -15,6 +15,7 @@ Just a very stupid experiment with logical operators
  - BennuGD 1: 1076
  - Lua: 196
  - Bash: 87247
+ - Rust: 8751
 
 ### Credits
 This silly project has been created live simply for fun.
