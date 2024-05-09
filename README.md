@@ -19,7 +19,7 @@ Just a very stupid experiment with logical operators
  - Lua: 196
  - Ada: 1
 
-### Credits
+## Credits
 This silly project has been created live simply for fun.
 
 *Rafa Laguna*
@@ -29,12 +29,12 @@ This silly project has been created live simply for fun.
 - [Tiktok](https://tiktok.com/@rafalagoon)
 - [Todogodot](https://youtube.com/@todogodot)
 
-#### Colaborators
+### Collaborators
 - BennuGD 1 & 2 [Panreyes](https://github.com/panreyes)
 - Lua [Komo](https://github.com/cattokomo)
 - Bash & Rust [Miguel de Dios Matias](https://github.com/mdtrooper)
 - Go [Angel Iglesias](https://github.com/angiglesias)
 
-### License
+## License
 
-GPL v3
+[GNU Public License v3 (GPL v3)](LICENSE)
