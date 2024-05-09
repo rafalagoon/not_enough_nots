@@ -20,9 +20,7 @@ Just a very stupid experiment with logical operators
  - Ada: 1
 
 ## Credits
-This silly project has been created live simply for fun.
-
-*Rafa Laguna*
+This silly project has been created live simply for fun by **Rafa Laguna**.
 - [Twitch](https://twitch.tv/rafalagoon)
 - [Twitter](https://twitter.com/rafalagoon)
 - [Youtube](https://youtube.com/@rafalagoon)
