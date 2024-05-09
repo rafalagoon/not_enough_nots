@@ -33,6 +33,7 @@ This silly project has been created live simply for fun.
 - BennuGD 1 & 2 [Panreyes](https://github.com/panreyes)
 - Lua [Komo](https://github.com/cattokomo)
 - Bash & Rust [Miguel de Dios Matias](https://github.com/mdtrooper)
+- Go [Angel Iglesias](https://github.com/angiglesias)
 
 ### License
 
