@@ -7,15 +7,15 @@ Just a very stupid experiment with logical operators
 ## And what about other languages?
  - Pascal: infinite
  - C: infinite
+ - Bash: 87247
  - Javascript: 18301
  - PHP: 9984
+ - Rust: 8751
  - BennuGD 2: 5460
  - Python: 3093
  - Java: 1780
  - BennuGD 1: 1076
  - Lua: 196
- - Bash: 87247
- - Rust: 8751
 
 ### Credits
 This silly project has been created live simply for fun.
