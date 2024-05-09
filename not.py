@@ -188,13 +188,7 @@ def notnot():
 	not not not not not not not not not not not not not not not not \
 	not not not not not not not not not not not not not not not not \
 	not not not not not not not not not not not not not not not not \
-	not not not not not not not not not not not not not not not not \
-	not not not not not not not not not not not not not not not not \
-	not not not not not not not not not not not not not not not not \
-	not not not not not not not not not not not not not not not not \
-	not not not not not not not not not not not not not not not not \
-	not not not not not not not not not not not not not not not not \
-	not not not not not  \
+	not not not not not \
 	True
 
 
