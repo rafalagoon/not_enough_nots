@@ -18,7 +18,7 @@ Just a very stupid experiment with logical operators
  - Java: 1780
  - BennuGD 1: 1076
  - C#: 1041
- - Swift: 256
+ - Swift: 253
  - Lua: 196
  - Ada: 1
 
