@@ -13,6 +13,7 @@ Just a very stupid experiment with logical operators
  - PHP: 9984
  - Rust: 8751
  - BennuGD 2: 5460
+ - SQL: 31992
  - Python: 3029
  - Java: 1780
  - BennuGD 1: 1076
@@ -34,6 +35,7 @@ This silly project has been created live simply for fun by **Rafa Laguna**.
 - Bash & Rust [Miguel de Dios Matias](https://github.com/mdtrooper)
 - Go [Angel Iglesias](https://github.com/angiglesias)
 - C# [Brian Dukes](https://github.com/bdukes)
+- SQL [Dekotale](https://github.com/dekotale)
 
 ## License
 
