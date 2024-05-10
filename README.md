@@ -35,6 +35,7 @@ This silly project has been created live simply for fun by **Rafa Laguna**.
 - Bash & Rust [Miguel de Dios Matias](https://github.com/mdtrooper)
 - Go [Angel Iglesias](https://github.com/angiglesias)
 - C# [Brian Dukes](https://github.com/bdukes)
+- Brainfuck [RomTheSheep](https://github.com/ROMthesheep)
 
 ## License
 
