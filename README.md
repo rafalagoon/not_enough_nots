@@ -19,6 +19,7 @@ Just a very stupid experiment with logical operators
  - C#: 1041
  - Lua: 196
  - Ada: 1
+ - C++: 524181
 
 ## Credits
 This silly project has been created live simply for fun by **Rafa Laguna**.
@@ -34,6 +35,7 @@ This silly project has been created live simply for fun by **Rafa Laguna**.
 - Bash & Rust [Miguel de Dios Matias](https://github.com/mdtrooper)
 - Go [Angel Iglesias](https://github.com/angiglesias)
 - C# [Brian Dukes](https://github.com/bdukes)
+- C++ [Jaime Crespo a.k.a. Jynus](https://github.com/jynus)
 
 ## License
 
