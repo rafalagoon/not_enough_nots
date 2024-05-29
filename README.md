@@ -7,6 +7,7 @@ Just a very stupid experiment with logical operators
 ## And what about other languages?
  - Pascal: infinite
  - C: infinite
+ - Brainfuck: infinite
  - Go: 123359
  - Bash: 87247
  - Javascript: 18301
@@ -19,6 +20,7 @@ Just a very stupid experiment with logical operators
  - Elm: 1175
  - BennuGD 1: 1076
  - C#: 1041
+ - Swift: 253
  - Lua: 196
  - Ada: 1
 
@@ -36,6 +38,8 @@ This silly project has been created live simply for fun by **Rafa Laguna**.
 - Bash & Rust [Miguel de Dios Matias](https://github.com/mdtrooper)
 - Go [Angel Iglesias](https://github.com/angiglesias)
 - C# & Elm [Brian Dukes](https://github.com/bdukes)
+- Brainfuck & Swift [RomTheSheep](https://github.com/ROMthesheep)
+
 
 ## License
 
