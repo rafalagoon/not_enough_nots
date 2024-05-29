@@ -14,8 +14,10 @@ Just a very stupid experiment with logical operators
  - PHP: 9984
  - Rust: 8751
  - BennuGD 2: 5460
+ - CommonLisp: 3500
  - Python: 3029
  - Java: 1780
+ - Elm: 1175
  - BennuGD 1: 1076
  - C#: 1041
  - Swift: 253
@@ -35,8 +37,9 @@ This silly project has been created live simply for fun by **Rafa Laguna**.
 - Lua [Komo](https://github.com/cattokomo)
 - Bash & Rust [Miguel de Dios Matias](https://github.com/mdtrooper)
 - Go [Angel Iglesias](https://github.com/angiglesias)
-- C# [Brian Dukes](https://github.com/bdukes)
+- C# & Elm [Brian Dukes](https://github.com/bdukes)
 - Brainfuck & Swift [RomTheSheep](https://github.com/ROMthesheep)
+
 
 ## License
 
