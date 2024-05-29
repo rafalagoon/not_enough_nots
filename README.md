@@ -8,6 +8,7 @@ Just a very stupid experiment with logical operators
  - Pascal: infinite
  - C: infinite
  - Brainfuck: infinite
+ - C++: 524181 
  - Go: 123359
  - Bash: 87247
  - Javascript: 18301
@@ -39,6 +40,7 @@ This silly project has been created live simply for fun by **Rafa Laguna**.
 - Go [Angel Iglesias](https://github.com/angiglesias)
 - C# & Elm [Brian Dukes](https://github.com/bdukes)
 - Brainfuck & Swift [RomTheSheep](https://github.com/ROMthesheep)
+- C++ [Jaime Crespo a.k.a. Jynus](https://github.com/jynus)
 
 
 ## License
