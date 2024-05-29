@@ -11,6 +11,7 @@ Just a very stupid experiment with logical operators
  - C++: 524181 
  - Go: 123359
  - Bash: 87247
+ - SQL: 31992
  - Javascript: 18301
  - PHP: 9984
  - Rust: 8751
@@ -41,7 +42,7 @@ This silly project has been created live simply for fun by **Rafa Laguna**.
 - C# & Elm [Brian Dukes](https://github.com/bdukes)
 - Brainfuck & Swift [RomTheSheep](https://github.com/ROMthesheep)
 - C++ [Jaime Crespo a.k.a. Jynus](https://github.com/jynus)
-
+- SQL [Dekotale](https://github.com/dekotale)
 
 ## License
 
