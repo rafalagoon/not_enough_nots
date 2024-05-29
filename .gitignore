@@ -15,3 +15,6 @@ data_*/
 mono_crash.*.json
 obj/
 bin/
+
+# Elm
+elm-stuff/
