@@ -18,7 +18,8 @@ Just a very stupid experiment with logical operators
  - BennuGD 2: 5460
  - CommonLisp: 3500
  - Python: 3029
- - Java: 1780
+ - Dart: 2402
+ - Java: 1780/Infinite
  - Elm: 1175
  - BennuGD 1: 1076
  - C#: 1041
@@ -43,6 +44,7 @@ This silly project has been created live simply for fun by **Rafa Laguna**.
 - Brainfuck & Swift [RomTheSheep](https://github.com/ROMthesheep)
 - C++ [Jaime Crespo a.k.a. Jynus](https://github.com/jynus)
 - SQL [Dekotale](https://github.com/dekotale)
+- Java & Dart [SuperSonic2510](https://github.com/Supersonic2510)
 
 ## License
 
